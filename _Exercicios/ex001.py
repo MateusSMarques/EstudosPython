@@ -1,0 +1,10 @@
+nome = input ('Qual o seu nome?')
+print ('O seu nome é ' + nome + ' correto?')
+dia = input ('Que dia você nasceu?')
+mes = input ('Que mês você nasceu?')
+ano = input ('Que ano você nasceu?')
+print ('Você nasceu dia ' + dia + ' de ' + mes + ' de ' + ano )
+nu1 = int( input ('primeiro número:'))
+nu2 = int(input ('segundo número:'))
+s = nu1 + nu2
+print (s)
